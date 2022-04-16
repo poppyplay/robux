@@ -25,7 +25,7 @@
 	"unity": "badal li ltaht ila bghiti unity",
 	
 	"UnityAppId": "4710015",
-	"UnityInter": "video",
-	"Unitybanner": "banner",
-	"unityreward": "rewardedVideo"
+	"UnityInter": "Interstitial_Android",
+	"Unitybanner": "",
+	"unityreward": "Rewarded_Android"
 }
